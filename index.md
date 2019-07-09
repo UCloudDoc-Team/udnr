@@ -1,0 +1,9 @@
+{{indexmenu_n>1}}
+
+### 域名服务
+
+UCloud域名服务（UDnr）通过自建方式以及联合多家优质域名注册商，提供高性价比、服务稳定的域名。服务包含域名注册、续费、信息修改、解析、转入、转出、保护等功能。
+
+**目录**
+
+{{indexmenu>:domain:udnr#1 | nsort dsort msort}} 
