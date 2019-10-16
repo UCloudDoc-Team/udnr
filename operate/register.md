@@ -8,7 +8,7 @@
 
 ### 域名注册入口之UCloud官网页面
 
-1\.[UCloud官网](ucloud.cn)点击产品➡域名与网站➡域名服务➡跳转域名官方注册页面。  
+1\.[UCloud官网](https://www.ucloud.cn/)点击产品➡域名与网站➡域名服务➡跳转域名官方注册页面。  
 ![](/images/operate/图片_1.png)  
 2.域名官网页面：  
 ![](/images/operate/图片_2.png)  
