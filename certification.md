@@ -1,4 +1,4 @@
-{{indexmenu_n>4}}
+
 
 ## 域名实名认证
 
@@ -7,4 +7,4 @@
 实名认证一般需要1～2个工作日，特殊情况可能需要5个工作日。 
 
 
-{{indexmenu>:domain:udnr:certification| nsort dsort msort}}
+
