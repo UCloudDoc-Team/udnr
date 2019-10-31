@@ -18,6 +18,7 @@
     * 域名解析
         * [域名DNS配置](domain/udnr/dns/jiexi)
         * [域名解析](domain/udnr/dns/analysis)
+        * [DNS反向解析处理流程](domain/udnr/dns/dns_setting_2.md)
     * 域名管理
         * [域名安全](domain/udnr/manage/anquan)
         * [域名证书下载](domain/udnr/manage/certificate)
