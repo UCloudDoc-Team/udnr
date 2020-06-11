@@ -1,4 +1,4 @@
-<div class="sidebar_title icon__udnr"> 域名服务UDNR</div>
+<div class="sidebar_title icon__udnr"> 域名服务 UDNR</div>
 
 * [概览](/udnr/README)
 * [名词解释](/udnr/mingci)
