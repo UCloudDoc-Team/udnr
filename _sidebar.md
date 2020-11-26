@@ -1,10 +1,10 @@
 <div class="sidebar_title icon__udnr"> 域名服务 UDNR</div>
 
 * [概览](/udnr/README)
-* [名词解释](/udnr/mingci)
+* [名词解释](/udnr/definations.md)
 * 域名计费
-    * [域名价格](/udnr/price/jiage)
-    * [域名续费](/udnr/price/xufei)
+    * [域名价格](/udnr/price/sellingprice)
+    * [域名续费](/udnr/price/renew)
     * [域名赎回](/udnr/price/redemption)
 * 域名注册
     * [域名注册](/udnr/operate/register)
