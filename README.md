@@ -1,9 +1,9 @@
 # 概览
 
-* [名词解释](/udnr/mingci)
+* [名词解释](/udnr/definations)
 * 域名计费
-    * [域名价格](/udnr/price/jiage)
-    * [域名续费](/udnr/price/xufei)
+    * [域名价格](/udnr/price/sellingprice)
+    * [域名续费](/udnr/price/renew)
     * [域名赎回](/udnr/price/redemption)
 * 域名注册
     * [域名注册](/udnr/operate/register)
