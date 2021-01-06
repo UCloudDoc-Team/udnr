@@ -1,7 +1,7 @@
 # 概览
 
 
-* [名词解释.](/udnr/definations.md)
+* [名词解释](/udnr/definations.md)
 * 域名计费
     * [域名价格](/udnr/price/sellingprice)
     * [域名续费](/udnr/price/renew)
